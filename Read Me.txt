@@ -1,0 +1,17 @@
+READ ME......
+
+Data-cleaning-data-exploration-variable-relationship-KNN-model (1).ipynb;
+- Data cleaning and data exploration variable relationship python code
+- KNN model pyhton code
+
+decision tree classification model 1-4;
+- is the tree visualisation
+
+Untitled;
+- is the decision tree python code
+
+PRACTICAL DATA SCIENCE.docx;
+- word doc of the report
+
+nba.games.stats.csv;
+- the csv of the data used
